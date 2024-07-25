@@ -1,0 +1,39 @@
+button{
+    padding: 15px;
+    border: 0;
+    outline: 0;
+    background-color: blue;
+    color: white;
+    font-size: 17px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.main{
+    width: 300px;
+    height: 300px;
+}
+/* #read{
+    color: blue;
+    cursor: pointer;
+} */
+
+/* #text{
+    display: none;
+}
+h1{
+    cursor: pointer;
+}
+
+#img{
+    height: 500px;
+    width: 900px;
+    background-color: blue;
+}
+#mytext{
+    height: 300px;
+} */
+#getColor{
+    width: 400px;
+    height: 400px;
+}
+
